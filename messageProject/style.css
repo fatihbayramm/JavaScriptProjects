@@ -1,0 +1,42 @@
+.container {
+    background-color: white;
+    width: 50em;
+    height: 24em;
+    border-radius: 10px;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    text-align: center;
+}
+
+.container input {
+    width: 50em;
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+#submitBtn {
+    font-size: larger;
+    width: 130px;
+    height: 60px;
+    background-color:#b852dd;
+    color: white;
+}
+
+#submitBtn:hover {
+    opacity: 0.9;
+}
+
+.feedback {
+    display: none;
+}
+
+.show {
+    display: block;
+    background-color: bisque;
+
+}
+
+.message-content {
+    color: green;
+}

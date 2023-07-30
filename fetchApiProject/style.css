@@ -1,0 +1,49 @@
+body {
+    background-color: #0F2537;
+    font-family: "Lato", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #EBEBEB;
+    font-family: "Lato", sans-serif;
+    font-size: 50px;
+}
+
+.buttons {
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    font-size: larger;
+}
+
+.buttons:hover {
+    background-color: green;
+    border: 2px solid aqua;
+}
+
+.buttons:active {
+    background-color: red;
+}
+
+#ul {
+    font-size: 16px;
+    color: #EBEBEB;
+    border: 1px solid aqua;
+    border-radius: 10px;
+
+}
+
+.flex-box {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15%;
+}
+
+.list-inline-item {
+    margin-top: 150px;
+    display: inline-block;
+    font-size: 25px;
+    color: #EBEBEB;
+}
