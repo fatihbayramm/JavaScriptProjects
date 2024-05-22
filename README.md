@@ -43,6 +43,21 @@ This application is similar to the Google Meet application. When the "+" button 
 <img width="1440" alt="Ekran Resmi 2024-05-22 16 45 13-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/cba3ddbe-2307-4d58-b925-af31238bd095">
 <img width="1440" alt="Ekran Resmi 2024-05-22 16 45 01-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/888286a4-e8b1-4c27-932d-ae49ae9abf6b">
 
+# Image Slider
+This application is an image slider application. There are 2 buttons on the left and right to go forward and back. When you press the button on the right, the next image appears, and when you press the button on the left, the previous image appears. The working logic is to bring the next or previous image to the screen by assigning the images in an image folder to the array via JS.
+
+<img width="1440" alt="Ekran Resmi 2024-05-22 17 45 37-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/5b8e004f-118e-4e65-bfc7-d7b810362ae4">
+<img width="1440" alt="Ekran Resmi 2024-05-22 17 45 30-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/7d4ec81d-b215-40ed-8955-106df44c62ab">
+<img width="1440" alt="Ekran Resmi 2024-05-22 17 45 17-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/fc1d8aef-b9b6-462b-9a8f-4c0ef3bf74e3">
+
+# Message App
+This application is a messaging application. You write your message into the input on the screen and your message appears in the bottom section and the message "Your message has been sent" appears on the screen. When the message is not sent, it asks for a value to be entered and after a while that text disappears.
+
+<img width="1440" alt="Ekran Resmi 2024-05-22 18 04 03-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/1ec0bd4a-fd4f-4320-b7ed-58d447858d73">
+<img width="1435" alt="Ekran Resmi 2024-05-22 18 02 50-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/e5599459-28cb-476c-a76a-0e30468311fd">
+
+
+
 
 
 
