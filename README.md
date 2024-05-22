@@ -26,6 +26,15 @@ This is a fetch API implementation. It is used to fetch data from an API site us
 
 <img width="1440" alt="Ekran Resmi 2024-05-22 16 25 19-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/9beac57a-26ad-4c73-80e3-2716f4d0a0e4">
 
+# Forum 
+This application is an example forum site. It redirects to different pages. For example, the home page, sign up, log in, redirect to about us pages. It provides the opportunity to write something in the forum. It was made using both PHP and js.
+
+<img width="1440" alt="Ekran Resmi 2024-05-22 16 31 23-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/6a889a1e-a413-4364-bfb1-390a6dee3bcf">
+<img width="1440" alt="Ekran Resmi 2024-05-22 16 31 14-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/41353438-cbbd-4b7e-bab9-7f390b96c5b6">
+<img width="1440" alt="Ekran Resmi 2024-05-22 16 31 05-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/d54d4c54-d303-411a-80c0-969cc5d6446b">
+<img width="1440" alt="Ekran Resmi 2024-05-22 16 29 36-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/70976d7c-f0af-4999-8214-e06d27f1f35c">
+
+
 
 
 
