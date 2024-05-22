@@ -21,5 +21,11 @@ The screenshots are not very smooth, this is because you have to be very fast to
 <img width="644" alt="Ekran Resmi 2024-05-22 16 15 53-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/00af1318-1ec8-4783-ab4e-5731f75421f5">
 <img width="935" alt="Ekran Resmi 2024-05-22 16 15 42-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/6eb2d4d1-0bc7-4d23-9e45-3cc2e78716ae">
 
+# Fetch API
+This is a fetch API implementation. It is used to fetch data from an API site using fetch(). There are 4 different buttons, each of which is used to pull different data. The working logic is that it sends a request to the url with the fetch() function on the js side, fetches the data and prints it on the page.
+
+<img width="1440" alt="Ekran Resmi 2024-05-22 16 25 19-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/9beac57a-26ad-4c73-80e3-2716f4d0a0e4">
+
+
 
 
