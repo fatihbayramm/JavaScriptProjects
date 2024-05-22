@@ -37,6 +37,12 @@ This application is an example forum site. It redirects to different pages. For 
 # Google Meet App
 This application is similar to the Google Meet application. When the "+" button is pressed on the page, a new user is added to the call and the page is shaped according to the front. When the "-" button is pressed, the last user is deleted and the page is shaped accordingly. It can be seen in the screenshots. The working logic is that when the number of users is 2, 5, or 10, the page is shaped as 2, 3, or 4 columns and the users are placed on the page accordingly. Adding elements was done on the js side and using the "display:grid" structure on the CSS side.
 
+<img width="1440" alt="Ekran Resmi 2024-05-22 16 45 42-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/d6f17df6-890c-4a81-8cca-74e5db4f24f8">
+<img width="1440" alt="Ekran Resmi 2024-05-22 16 45 32-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/5587fd10-d91d-48a3-b08f-3febd9fed81a">
+<img width="1440" alt="Ekran Resmi 2024-05-22 16 45 22-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/99c4160e-c47c-46f1-8869-c2cdb8c593f5">
+<img width="1440" alt="Ekran Resmi 2024-05-22 16 45 13-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/cba3ddbe-2307-4d58-b925-af31238bd095">
+<img width="1440" alt="Ekran Resmi 2024-05-22 16 45 01-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/888286a4-e8b1-4c27-932d-ae49ae9abf6b">
+
 
 
 
