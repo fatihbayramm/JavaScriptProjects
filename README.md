@@ -14,4 +14,12 @@ This is a counter application. There are increase, decrease and reset buttons. T
 <img width="1440" alt="Ekran Resmi 2024-05-22 15 56 08-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/2b86afc9-a5e0-4818-9377-8bcaf759e3d8">
 <img width="1440" alt="Ekran Resmi 2024-05-22 15 56 02-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/1427506d-e609-42c6-b743-ed7018280cd6">
 
+# Cursor Animation
+This is a cursor application. Colors change randomly as you move the cursor on the page. It is a CSS-oriented application. Working logic: After a certain time, its color changes randomly according to the CSS codes.
+The screenshots are not very smooth, this is because you have to be very fast to take a screenshot while the color of the cursor is changing.
+
+<img width="644" alt="Ekran Resmi 2024-05-22 16 15 53-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/00af1318-1ec8-4783-ab4e-5731f75421f5">
+<img width="935" alt="Ekran Resmi 2024-05-22 16 15 42-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/6eb2d4d1-0bc7-4d23-9e45-3cc2e78716ae">
+
+
 
