@@ -56,6 +56,12 @@ This application is a messaging application. You write your message into the inp
 <img width="1440" alt="Ekran Resmi 2024-05-22 18 04 03-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/1ec0bd4a-fd4f-4320-b7ed-58d447858d73">
 <img width="1435" alt="Ekran Resmi 2024-05-22 18 02 50-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/e5599459-28cb-476c-a76a-0e30468311fd">
 
+# Todo App
+This is a Todo application. It has a very simple interface. Todo is written and it comes to the bottom, completed todos can be crossed out by pressing the button or deleted if desired. Most of the operations are on the js side.
+
+<img width="1440" alt="Ekran Resmi 2024-05-22 18 09 17-min" src="https://github.com/fatihbayramm/JavaScriptProjects/assets/99727365/d84e245c-0b42-4ebb-a7f3-69e8fc7ee7fe">
+
+
 
 
 
